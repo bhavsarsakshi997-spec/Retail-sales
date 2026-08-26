@@ -919,7 +919,8 @@ End
 
 1.input image:<img width="667" height="930" alt="image" src="https://github.com/user-attachments/assets/fd39f24d-3267-4b49-a2ba-6d52046baf2a" />
 
-2.output image:
+2.output image:<img width="1533" height="1026" alt="output image" src="https://github.com/user-attachments/assets/23ed6991-672b-4187-a58b-22708dacf24e" />
+
 
 1.structer image:<img width="1024" height="1536" alt="ChatGPT Image Aug 26, 2026, 10_45_17 AM" src="https://github.com/user-attachments/assets/167e4ebd-e22d-4f2f-acec-cfc807a3a595" />
 
@@ -935,7 +936,7 @@ End
 
 7.image7:<img width="983" height="931" alt="image7" src="https://github.com/user-attachments/assets/f0729342-ee05-4562-9134-5e6924740009" />
 
-3.video link:
+3.video link:https://drive.google.com/file/d/1zl94jOZn5vVk_Tzr82yjWg7Ys5dAjY4z/view?usp=drive_link
 
 # 35. Project Conclusion
 
